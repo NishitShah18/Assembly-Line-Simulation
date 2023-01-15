@@ -9,6 +9,6 @@
 2. Open the repo in cmd/terminal
 3. Execute the following command:
    <ul>
-   <li>g++ -Wall -std=c++17 -g -o Project.exe CustomerOrder.cpp LineManager.cpp Station.cpp Utilities.cpp Workstation.cpp</li>
-   <li>./Project.exe</li>
+   <li>'g++ -Wall -std=c++17 -g -o Project.exe CustomerOrder.cpp LineManager.cpp Station.cpp Utilities.cpp Workstation.cpp Main.cpp'</li>
+   <li>'./Project.exe Stations1.txt Stations2.txt CustomerOrders.txt AssemblyLine.txt'</li>
    </ul>
