@@ -12,4 +12,4 @@
 `Project.exe Stations1.txt Stations2.txt CustomerOrders.txt AssemblyLine.txt`
 
 
-## Please read [project overview](https://github.com/NishitShah18/Assembly-Line/Project-OverView).
+## Please read [project overview](https://github.com/NishitShah18/Assembly-Line/Project%20OverView).
