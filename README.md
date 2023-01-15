@@ -8,5 +8,7 @@
 1. Clone this repo - `git clone https://github.com/NishitShah18/Assembly-Line.git`
 2. Open the repo in cmd/terminal
 3. Execute the following command: <br>
-   (i) &nbspg++ -Wall -std=c++17 -g -o Project.exe CustomerOrder.cpp LineManager.cpp Station.cpp Utilities.cpp Workstation.cpp <br>
-   (ii) ./Project.exe
+   <ol>
+   <li>g++ -Wall -std=c++17 -g -o Project.exe CustomerOrder.cpp LineManager.cpp Station.cpp Utilities.cpp Workstation.cpp</li>
+   <li>./Project.exe</li>
+   </ol>
